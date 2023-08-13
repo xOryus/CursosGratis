@@ -7,7 +7,7 @@ Atualizado - 2023 [xOryus]
 
 ## Termux HACKING
 -> https://pt.scribd.com/document/422855935/termux-3                                                                                                                                                                         
--> https://pdfcoffee.com/300-powerful-termux-hacking-tools-for-hackers--pdf-free.html
+-> https://pdfcoffee.com/300-powerful-termux-hacking-tools-for-hackers--pdf-free.html                                                                                                                                 
 -> https://www.techncyber.com/2017/09/hacking-with-termux-app.html
 
 ## Fundamentos de TI e Sistemas Operacionais
