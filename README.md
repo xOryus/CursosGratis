@@ -3,7 +3,7 @@
 
 # Pack de cursos gratuitos para Segurança da Informação
 #### Essa trilha engloba diversos links de cursos gratuitos e com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial. 
-Atualizado - 2023 [X]
+Atualizado - 2023 [xOryus]
 
 ## Termux HACKING
 -> https://pt.scribd.com/document/422855935/termux-3
