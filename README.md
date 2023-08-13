@@ -1,6 +1,14 @@
+![](https://pa1.narvii.com/6744/60e6a5d7199177d4d46fd317e1d5da7750e0435b_hq.gif)
+
+
 # Pack de cursos gratuitos para Segurança da Informação
 #### Essa trilha engloba diversos links de cursos gratuitos e com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial. 
 Atualizado - 2023 [X]
+
+## Termux HACKING
+-> https://pt.scribd.com/document/422855935/termux-3
+-> https://pdfcoffee.com/300-powerful-termux-hacking-tools-for-hackers--pdf-free.html
+-> https://www.techncyber.com/2017/09/hacking-with-termux-app.html
 
 ## Fundamentos de TI e Sistemas Operacionais
 -> Fundamentos de TI: Hardware e Software - Fundação Bradesco  
